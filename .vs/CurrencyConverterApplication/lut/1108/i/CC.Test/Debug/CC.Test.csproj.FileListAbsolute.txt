@@ -1,0 +1,8 @@
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\CC.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\CC.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\CC.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\CC.Test\bin\Debug\CC.Test.dll.config
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\CC.Test\bin\Debug\CC.Test.dll
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\CC.Test\Debug\CC.Test.csproj.CoreCompileInputs.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\CC.Test\Debug\CC.Test.csproj.CopyComplete
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\CC.Test\Debug\CC.Test.dll

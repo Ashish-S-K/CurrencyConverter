@@ -1,0 +1,16 @@
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\UI\bin\Debug\UI.exe.config
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\UI\bin\Debug\UI.exe
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\b\UI\bin\Debug\UI.pdb
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.csprojAssemblyReference.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\MainWindow.g.cs
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\App.g.cs
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI_MarkupCompile.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI_MarkupCompile.lref
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\MainWindow.baml
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.g.resources
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.Properties.Resources.resources
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.csproj.GenerateResource.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.csproj.CopyComplete
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.exe
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\.vs\CurrencyConverterApplication\lut\0\i\UI\Debug\UI.pdb

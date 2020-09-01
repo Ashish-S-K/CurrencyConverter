@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CurrencyConverterService.CurrencyConverter" CodeBehind="CurrencyConverter.svc.cs" %>

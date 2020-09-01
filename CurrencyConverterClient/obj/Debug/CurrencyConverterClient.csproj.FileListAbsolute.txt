@@ -1,0 +1,15 @@
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.csprojAssemblyReference.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\MainWindow.g.cs
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\App.g.cs
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient_MarkupCompile.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient_MarkupCompile.lref
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\bin\Debug\CurrencyConverterClient.exe.config
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\bin\Debug\CurrencyConverterClient.exe
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\bin\Debug\CurrencyConverterClient.pdb
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\MainWindow.baml
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.g.resources
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.Properties.Resources.resources
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.csproj.GenerateResource.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.csproj.CoreCompileInputs.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.exe
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterClient\obj\Debug\CurrencyConverterClient.pdb

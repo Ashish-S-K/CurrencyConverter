@@ -1,0 +1,10 @@
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\bin\Debug\testclient.exe.config
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\bin\Debug\testclient.exe
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\bin\Debug\testclient.pdb
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.csprojAssemblyReference.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.Form1.resources
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.Properties.Resources.resources
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.csproj.GenerateResource.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.csproj.CoreCompileInputs.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.exe
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\testclient\obj\Debug\testclient.pdb

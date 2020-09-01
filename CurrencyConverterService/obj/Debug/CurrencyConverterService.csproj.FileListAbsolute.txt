@@ -1,0 +1,7 @@
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\obj\Debug\CurrencyConverterService.csprojAssemblyReference.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\obj\Debug\CurrencyConverterService.csproj.CoreCompileInputs.cache
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\bin\CurrencyConverterService.dll.config
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\bin\CurrencyConverterService.dll
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\bin\CurrencyConverterService.pdb
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\obj\Debug\CurrencyConverterService.dll
+C:\Users\ASHISH\source\repos\CurrencyConverterApplication\CurrencyConverterService\obj\Debug\CurrencyConverterService.pdb
