@@ -1,5 +1,6 @@
 # CurrencyConverter
 The currency converter application is used to convert numerical currency to words
+THis is an Windows Application.
 
 ### Conditions
 Maximum limit of the input number will be 999 999 999.
