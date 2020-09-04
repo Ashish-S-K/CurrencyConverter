@@ -1,6 +1,7 @@
 # CurrencyConverter
 The currency converter application is used to convert numerical currency to words
-THis is an Windows Application.
+
+This is an Windows Application with front end in WPF and backend in WCF.
 
 ### Conditions
 Maximum limit of the input number will be 999 999 999.
