@@ -13,3 +13,5 @@ The separator between dollars and cents is ‘,’ (comma).
 Validations added,
 
 Input is out of range.
+
+Input is not in correct format
