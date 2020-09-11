@@ -3,6 +3,8 @@ The currency converter application is used to convert numerical currency to word
 
 This is an Windows Application with front end in WPF and backend in WCF.
 
+Testing project is also present.
+
 ### Conditions
 Maximum limit of the input number will be 999 999 999.
 
