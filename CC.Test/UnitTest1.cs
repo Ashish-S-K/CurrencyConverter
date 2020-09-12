@@ -70,6 +70,7 @@ namespace CC.Test
         public void Test_OutOfRange()
         {
             //Arrange
+            //The below input is out of range cause, cents should only occupy only 2 places.
             string inputValue = "25,9876";
             string expectedValue = "Input is Out of Range";            
             CurrencyConverterService.CurrencyConverter currencyConverter = new CurrencyConverterService.CurrencyConverter();
