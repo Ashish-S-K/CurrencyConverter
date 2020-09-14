@@ -96,5 +96,17 @@ namespace CC.Test
             //Assert
             Assert.AreEqual(expectedValue, actualValue);
         }
+
+        [TestMethod]
+        public void Test_OutOfRangeForDollars()
+        {                        
+            string inputValue = "1000000000";
+            string expectedValue = "Input is Out of Range";
+            CurrencyConverterService.CurrencyConverter currencyConverter = new CurrencyConverterService.CurrencyConverter();
+                        
+            string actualValue = currencyConverter.GetResult(inputValue);
+            
+            Assert.AreEqual(expectedValue, actualValue);
+        }
     }
 }
