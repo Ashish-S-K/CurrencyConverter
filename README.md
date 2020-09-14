@@ -12,8 +12,8 @@ The maximum number of cents is 99.
 
 The separator between dollars and cents is ‘,’ (comma).
 
-Validations added,
+### Validations
 
-Input is out of range.
+Input is out of range, for both dollars and cents.
 
 Input is not in correct format
