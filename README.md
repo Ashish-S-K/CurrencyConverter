@@ -20,5 +20,8 @@ Input is not in correct format
 
 ### Examples
 
-Input: 1                Output: One Dollar   
-Input: 25,1             Output: twenty-five dollars and ten cents
+Input: 1                
+Output: One Dollar   
+
+Input: 25,1             
+Output: twenty-five dollars and ten cents
