@@ -17,3 +17,7 @@ The separator between dollars and cents is ‘,’ (comma).
 Input is out of range, for both dollars and cents.
 
 Input is not in correct format
+
+### Examples
+
+Input: 1          Output: One Dollar   
