@@ -26,8 +26,8 @@ Output: One Dollar
 Input: 25,1             
 Output: twenty-five dollars and ten cents
 
-Input: 0
+Input: 0        
 Output: zero dollars
 
-Input: 1
+Input: 1          
 Output: one dollar
